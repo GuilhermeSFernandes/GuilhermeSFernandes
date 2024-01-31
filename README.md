@@ -1,10 +1,8 @@
-👋 HEYYYYYYY!! I'm Guilherme Fernandes
+👋  I'm Guilherme Fernandes
  
  👀 I’m interested in improve my coding skills
  
- 📖 I’m currently learning C++
- 
- 🎮 Love play video game
+ 📖 I’m currently learning 
  
  📚 Graduating in Computer Science - UTFPR
  
